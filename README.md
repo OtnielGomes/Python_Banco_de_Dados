@@ -1,2 +1,2 @@
-# Python_Banco_de_Dados
- projetos de banco de dados em python (aprendizado).
+Projeto em Python de Banco_de_Dados
+Criação de um sistema de cadastramento de pessoas.
